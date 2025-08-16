@@ -8,14 +8,12 @@ I enjoy crafting seamless user experiences and robust backend systems, bringing 
 
 **Frontend**
 - React.js / Next.js  
-- TailwindCSS / Material UI  
-- Redux / Zustand / Context API  
-- TypeScript / JavaScript (ES6+)  
+- TailwindCSS / Material UI   
+- TypeScript / JavaScript 
 
 **Backend**
 - Django / Django REST Framework  
 - Python  
-- REST APIs & GraphQL  
 
 **Database**
 - PostgreSQL / MySQL / SQLite  
@@ -23,6 +21,5 @@ I enjoy crafting seamless user experiences and robust backend systems, bringing 
 
 **DevOps & Tools**
 - Git / GitHub / GitLab  
-- Docker / Docker Compose  
-- Nginx / Gunicorn  
-- AWS / Vercel / Netlify / Heroku  
+- Vercel / Netlify 
+
